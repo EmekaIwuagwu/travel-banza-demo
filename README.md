@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel Banza - React Travel Agency Website
 
 A modern, production-ready travel booking website built with React, TypeScript, and Tailwind CSS.
@@ -190,3 +191,6 @@ For support and questions:
 ---
 
 **Travel Banza** - Your journey starts here! ✈️
+=======
+travel-bankza
+>>>>>>> 972d24c5a1521139385744f540bde06e77e2a6be
